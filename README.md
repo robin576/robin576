@@ -1,8 +1,4 @@
-
-👋 Hi, there I'm Robin Kushwaha! About Me I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and Selenium, and a solid foundation in JavaScript and Java. My focus is on ensuring quality through robust test suites and best practices in software testing.
-🔧 Technologies & Tools Languages: JavaScript, Java, Python Testing Tools: Cypress, Selenium, Mocha, Chai Frameworks: Node.js, TestNG, Jmeter Version Control: Git, GitHub IDE: VSCode, IntelliJ IDEA 📈 GitHub Stats
-
- I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and Selenium, and a solid foundation in JavaScript and Java. My focus is on ensuring quality through robust test suites and best practices in software testing.
+Experienced SDET/QA Engineer with a strong focus on test automation and software quality assurance. Proficient in automation tools such as Cypress and Selenium, with a solid programming background in JavaScript and Java. Skilled in building robust, scalable test suites and applying best practices to ensure high software quality. Hands-on experience with frameworks like Node.js and TestNG, as well as testing tools including Mocha, Chai, and JMeter. Familiar with version control systems like Git and platforms like GitHub, and comfortable working in development environments such as VSCode and IntelliJ IDEA
 
 🚀 Featured Projects Inventory Management System: Node.js-based app for inventory operations, demonstrating modular ES6 syntax and JavaScript classes. Shopping Cart Testing - TutorialsNinja: Cypress automation project for e-commerce testing, focused on user experience and functionality verification. 🌱 Currently Learning I'm diving deeper into API testing and exploring CI/CD integrations to automate further and streamline testing processes.
 
